@@ -4,6 +4,7 @@ let typewriter = new Typewriter(app, {
   loop: true,
   delay: 75,
   
+  
 });
  
 typewriter
